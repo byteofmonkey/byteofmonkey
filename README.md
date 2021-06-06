@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @byteofmonkey
 - 👀 I’m interested in: web development
-- 🌱 I’m currently learning: JS(react)
-- 💞️ I’m looking to collaborate on: EXPERIMENTAL -> SPINNER project
+- 🌱 I’m currently learning: REACT
 - 📫 How to reach me: byteofmonkey@gmail.com
 
 <!---
