@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @byteofmonkey
+- 👋 Hi, I’m byteofmonkey
 - 👀 I’m interested in: web development
 - 🌱 I’m currently learning: REACT
 - 📫 byteofmonkey@gmail.com
