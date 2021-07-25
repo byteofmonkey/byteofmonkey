@@ -3,20 +3,21 @@
 
 
 <p align="left">
-<a href="https://www.linkedin.com/in/evgenii-kluev-a004301b5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/byteofmonkey/byteofmonkey/main/src/linkedIn.svg" alt="linkedIn" height="30" width="40" />Evgenii Kluev</a>
-<br>
-<a href="https://www.gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/byteofmonkey/byteofmonkey/main/src/gmail.svg" alt="gamil" height="30" width="40" />byteofmonkey@gmail.com</a>
-<br>
-<a href="https://www.telegram.com/byteofmonkey" target="blank"><img align="center" src="https://raw.githubusercontent.com/byteofmonkey/byteofmonkey/main/src/telegram.svg" alt="telegram" height="30" width="40" />@byteofmonkey</a>
+<a href="https://www.linkedin.com/in/evgenii-kluev-a004301b5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/byteofmonkey/byteofmonkey/main/src/linkedIn.svg" alt="linkedIn" height="25" width="25" />&nbsp;&nbsp;&nbsp;Evgenii Kluev</a>
+  <br>
+<a href="https://www.gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/byteofmonkey/byteofmonkey/main/src/gmail.svg" alt="gamil" height="25" width="25" />&nbsp;&nbsp;&nbsp;byteofmonkey@gmail.com</a>
+
+  <br>
+<a href="https://www.telegram.com/byteofmonkey" target="blank"><img align="center" src="https://raw.githubusercontent.com/byteofmonkey/byteofmonkey/main/src/telegram.svg" alt="telegram" height="25" width="25" />&nbsp;&nbsp;&nbsp;@byteofmonkey</a>
 </p>
 
-<table><tr><td valign="top" width="80%">
+<table><tr><td valign="top" width="40%">
   
   **🛠 My projects:**
 * [mogo](https://byteofmonkey.github.io/MogoHTML/)
 * [overLove](https://byteofmonkey.github.io/OverloveHTML/)
 
-</td><td valign="top" width="50%">
+</td><td valign="top" width="60%">
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
