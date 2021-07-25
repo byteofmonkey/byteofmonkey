@@ -14,7 +14,7 @@
 
 <table><tr><td valign="top" width="50%">
 <h3 align="left">My projects:</h3>
-* [HTML mogo](http://yoksel.github.io/html-tree/en) https://byteofmonkey.github.io/MogoHTML/
+* [HTML mogo](https://byteofmonkey.github.io/MogoHTML/)
 * [HTML overLove](https://byteofmonkey.github.io/OverloveHTML/)
 
 </td><td valign="top" width="50%">
