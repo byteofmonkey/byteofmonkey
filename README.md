@@ -2,7 +2,7 @@
 <h3 align="center">front-end veb-developer</h3>
 
 
-<p align="center">
+<p align="left">
 <a href="https://www.linkedin.com/in/evgenii-kluev-a004301b5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/byteofmonkey/byteofmonkey/main/src/linkedIn.svg" alt="linkedIn" height="30" width="40" />Evgenii Kluev</a>
 <br>
 <a href="https://www.gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/byteofmonkey/byteofmonkey/main/src/gmail.svg" alt="gamil" height="30" width="40" />byteofmonkey@gmail.com</a>
@@ -10,7 +10,7 @@
 <a href="https://www.telegram.com/byteofmonkey" target="blank"><img align="center" src="https://raw.githubusercontent.com/byteofmonkey/byteofmonkey/main/src/telegram.svg" alt="telegram" height="30" width="40" />@byteofmonkey</a>
 </p>
 
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="80%">
   
   **🛠 My projects:**
 * [mogo](https://byteofmonkey.github.io/MogoHTML/)
