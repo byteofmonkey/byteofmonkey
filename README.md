@@ -10,12 +10,11 @@
 <a href="https://www.telegram.com/byteofmonkey" target="blank"><img align="center" src="https://raw.githubusercontent.com/byteofmonkey/byteofmonkey/main/src/telegram.svg" alt="telegram" height="30" width="40" />@byteofmonkey</a>
 </p>
 
-
-
 <table><tr><td valign="top" width="50%">
-<h3 align="left">My projects:</h3>
-* [HTML mogo](https://byteofmonkey.github.io/MogoHTML/)
-* [HTML overLove](https://byteofmonkey.github.io/OverloveHTML/)
+  
+  **🛠 My projects:**
+* [mogo](https://byteofmonkey.github.io/MogoHTML/)
+* [overLove](https://byteofmonkey.github.io/OverloveHTML/)
 
 </td><td valign="top" width="50%">
 
